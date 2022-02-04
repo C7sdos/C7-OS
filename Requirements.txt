@@ -1,0 +1,4 @@
+colorama
+termux
+webdriver
+linux
